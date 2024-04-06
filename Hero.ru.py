@@ -72,3 +72,8 @@ class Villain(SuperHero):
 
 villain = Villain("Хаяте", 'Штурмовой ветер', 'Суперскорость', 100, 'С помощью своих сил, мы хотим правит миром')
 
+from art import tprint
+import colorama
+print(colorama.Back.BLUE, colorama.Fore.YELLOW, colorama.Style.DIM)
+print('djdjnfbff')
+tprint('iiihhhu')
